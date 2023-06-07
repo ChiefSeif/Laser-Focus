@@ -1,0 +1,17 @@
+
+  {
+	"name": "Laser Focus",
+	"version": "1.0",
+	"manifest_version": 3,
+	"description": "Displays browsing history for the day.",
+	"icons": {
+	  "128": "laser focus.png"
+	},
+	"action": {
+	  "default_popup": "popup.html"
+	},	
+	"permissions": [
+	  "history"
+	]
+  }
+  
